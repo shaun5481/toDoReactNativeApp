@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todoreactnativeapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Codetribe\\majorP\\toDoReactNativeApp\\amplify\\backend\\api\\todoreactnativeapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
